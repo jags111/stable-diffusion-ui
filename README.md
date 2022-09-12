@@ -6,7 +6,7 @@
   <a href="#installation"><img src="https://github.com/cmdr2/stable-diffusion-ui/raw/develop/media/download-linux.png" width="200" /></a>
 </p>
 
-[![Discord Server](https://badgen.net/badge/icon/discord?icon=discord&label)](https://discord.com/invite/u9yhsFmEkB) (for support, and development discussion) | [Troubleshooting guide for common problems](Troubleshooting.md)
+[![Discord Server]()](https://discord.gg/d3F4KFHV) (for support, and development discussion) | [Troubleshooting guide for common problems](Troubleshooting.md)
 
 ️‍🔥🎉 **New!** Face Correction (GFPGAN) and Upscaling (RealESRGAN) have been added!
 
