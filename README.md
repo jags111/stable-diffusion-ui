@@ -6,7 +6,7 @@
   <a href="#installation"><img src="https://github.com/cmdr2/stable-diffusion-ui/raw/develop/media/download-linux.png" width="200" /></a>
 </p>
 
-[![Discord Server]()](https://discord.gg/d3F4KFHV) (for support, and development discussion) | [Troubleshooting guide for common problems](Troubleshooting.md)
+[![Discord Server](https://badgen.net/badge/icon/discord?icon=discord&label)](https://discord.gg/d3F4KFHV) (for support, and development discussion) | [Troubleshooting guide for common problems](Troubleshooting.md)
 
 ️‍🔥🎉 **New!** Face Correction (GFPGAN) and Upscaling (RealESRGAN) have been added!
 
@@ -29,7 +29,7 @@
 You do not need anything else. You do not need WSL, Docker or Conda. The installer will take care of it.
 
 # Installation
-1. **Download** [for Windows](https://github.com/cmdr2/stable-diffusion-ui/releases/download/v2.05/stable-diffusion-ui-win64.zip) or [for Linux](https://github.com/cmdr2/stable-diffusion-ui/releases/download/v2.05/stable-diffusion-ui-linux.tar.xz).
+1. **Download** [for Windows](https://github.com/jags111/stable-diffusion-ui/releases/download/v2.05/stable-diffusion-ui-win64.zip) or [for Linux](https://github.com/jags111/stable-diffusion-ui/releases/download/v2.05/stable-diffusion-ui-linux.tar.xz).
 
 2. **Extract**:
   - For Windows: After unzipping the file, please move the `stable-diffusion-ui` folder to your `C:` (or any drive like D: at the top root level). For e.g. `C:\stable-diffusion-ui`. This will avoid a common problem with Windows (of file path length limits).
@@ -64,7 +64,7 @@ You can use Face Correction or Upscaling to improve the image further.
 **Another tip:** Images with the same aspect ratio of your generated image work best. E.g. 1:1 if you're generating images sized 512x512.
 
 ## Problems? Troubleshooting
-Please try the common [troubleshooting](Troubleshooting.md) steps. If that doesn't fix it, please ask on the [discord server](https://discord.com/invite/u9yhsFmEkB), or [file an issue](https://github.com/cmdr2/stable-diffusion-ui/issues).
+Please try the common [troubleshooting](Troubleshooting.md) steps. If that doesn't fix it, please ask on the [discord server](https://discord.com/d3F4KFHV), or [file an issue](https://github.com/jags111/stable-diffusion-ui/issues).
 
 # Advanced Settings
 You can also set the configuration like `seed`, `width`, `height`, `num_outputs`, `num_inference_steps` and `guidance_scale` using the 'show' button next to 'Advanced settings'.
@@ -81,9 +81,9 @@ It'll download the necessary files from the original [Stable Diffusion](https://
 The NSFW option is currently off (temporarily), so it'll allow NSFW images, for those people who are unable to run their prompts without hitting the NSFW filter incorrectly.
 
 # Bugs reports and code contributions welcome
-If there are any problems or suggestions, please feel free to ask on the [discord server](https://discord.com/invite/u9yhsFmEkB) or [file an issue](https://github.com/cmdr2/stable-diffusion-ui/issues).
+If there are any problems or suggestions, please feel free to ask on the [discord server](https://discord.com/d3F4KFHV) or [file an issue](https://github.com/jags111/stable-diffusion-ui/issues).
 
-Also, please feel free to submit a pull request, if you have any code contributions in mind. Join the [discord server](https://discord.com/invite/u9yhsFmEkB) for development-related discussions, and for helping other users.
+Also, please feel free to submit a pull request, if you have any code contributions in mind. Join the [discord server](https://discord.gg/d3F4KFHV) for development-related discussions, and for helping other users.
 
 # Disclaimer
 The authors of this project are not responsible for any content generated using this interface.
